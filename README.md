@@ -1,1 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/2EnW9dmo)
+○ Sebastian Andrei P. Merdegia
+○ 2023-09278
+○ This JavaScript program that validates to given string and has a function that reverses a string, also it contains a function that return the object. If the password is valid the newpassword will be the reverse of the password 1 and if not it is the same
+
+reference:
+https://www.programiz.com/java-programming/examples/alphabet
